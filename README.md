@@ -4,9 +4,9 @@
 ### Official Application Releases & Distribution Hub
 
 [![Official Website](https://img.shields.io/badge/الموقع_الرسمي-sajdapos.com-00C49F?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sajdapos.com)
-[![Current Version](https://img.shields.io/badge/الإصدار_الحالي-v1.3.1-0ea5e9?style=for-the-badge&logo=tag&logoColor=white)](https://github.com/khalidsakrjoker/Sajda_Apps/releases/tag/v1.3.1)
-[![Platform Windows](https://img.shields.io/badge/ويندوز-Windows_10_/_11_(64--bit)-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/khalidsakrjoker/Sajda_Apps/releases/tag/v1.3.1)
-[![Platform Android](https://img.shields.io/badge/أندرويد-Android_8.0+-34A853?style=for-the-badge&logo=android&logoColor=white)](https://github.com/khalidsakrjoker/Sajda_Apps/releases/tag/v1.3.1)
+[![Current Version](https://img.shields.io/badge/الإصدار_الحالي-v1.4.0-0ea5e9?style=for-the-badge&logo=tag&logoColor=white)](https://github.com/khalidsakrjoker/Sajda_Apps/releases/tag/v1.4.0)
+[![Platform Windows](https://img.shields.io/badge/ويندوز-Windows_10_/_11_(64--bit)-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/khalidsakrjoker/Sajda_Apps/releases/tag/v1.4.0)
+[![Platform Android](https://img.shields.io/badge/أندرويد-Android_8.0+-34A853?style=for-the-badge&logo=android&logoColor=white)](https://github.com/khalidsakrjoker/Sajda_Apps/releases/tag/v1.4.0)
 [![License](https://img.shields.io/badge/الترخيص-تجاري_/_Commercial-amber?style=for-the-badge)](https://sajdapos.com/#pricing)
 
 <p align="center">
@@ -18,13 +18,13 @@
 
 </div>
 
-## 📥 روابط التحميل المباشرة — الإصدار المستقر (v1.3.1)
+## 📥 روابط التحميل المباشرة — الإصدار المستقر (v1.4.0)
 
 | الحزمة | الصيغة | الحجم | طريقة التشغيل | رابط التنزيل المباشر |
 | :--- | :---: | :---: | :--- | :---: |
-| **تطبيق الأندرويد (APK)** | `.apk` | ~68.2 MB | تثبيت مباشر على كافة هواتف وأجهزة كاشير أندرويد | [**تحميل تطبيق الأندرويد (APK)**](https://github.com/khalidsakrjoker/Sajda_Apps/releases/download/v1.3.1/SajdaPOS-Android-1.3.1.apk) |
-| **المثبت القياسي للويندوز (Setup)** | `.exe` | ~34.8 MB | تثبيت رسمي مع أيقونة سطح المكتب وقائمة ابدأ | [**تحميل المثبت (Setup)**](https://github.com/khalidsakrjoker/Sajda_Apps/releases/download/v1.3.1/SajdaPOS-Setup-1.3.1.exe) |
-| **النسخة المحمولة للويندوز (Portable)** | `.zip` | ~48.0 MB | فك الضغط وتشغيل فوراً من الفلاشة بدون تثبيت | [**تحميل المحمول (Portable)**](https://github.com/khalidsakrjoker/Sajda_Apps/releases/download/v1.3.1/SajdaPOS-Windows-Portable-1.3.1.zip) |
+| **تطبيق الأندرويد (APK)** | `.apk` | ~82.3 MB | تثبيت مباشر على كافة هواتف وأجهزة كاشير أندرويد | [**تحميل تطبيق الأندرويد (APK)**](https://github.com/khalidsakrjoker/Sajda_Apps/releases/download/v1.4.0/SajdaPOS-Android-1.4.0.apk) |
+| **المثبت القياسي للويندوز (Setup)** | `.exe` | ~34.9 MB | تثبيت رسمي مع أيقونة سطح المكتب وقائمة ابدأ | [**تحميل المثبت (Setup)**](https://github.com/khalidsakrjoker/Sajda_Apps/releases/download/v1.4.0/SajdaPOS-Setup-1.4.0.exe) |
+| **النسخة المحمولة للويندوز (Portable)** | `.zip` | ~48.1 MB | فك الضغط وتشغيل فوراً من الفلاشة بدون تثبيت | [**تحميل المحمول (Portable)**](https://github.com/khalidsakrjoker/Sajda_Apps/releases/download/v1.4.0/SajdaPOS-Windows-Portable-1.4.0.zip) |
 
 > 💡 **ملاحظة:** النسخة المحمولة (Portable) مجهزة بكافة مكتبات Microsoft Visual C++ Runtime داخلياً، وتعمل على أي جهاز ويندوز خام أو بيئات Windows Sandbox دون الحاجة لتثبيت أي برامج أو طلب صلاحيات مسؤول (Admin).
 
@@ -35,14 +35,14 @@
 للتحقق من سلامة وأصالة الملفات المحملة وعدم تعرضها لأي تعديل:
 
 ```text
-# SajdaPOS-Android-1.3.1.apk
-SHA-256: 518A2D623080C740360D5D32BE167ED1E8135ECFE5F746F2818EDDE6043EBF28
+# SajdaPOS-Android-1.4.0.apk
+SHA-256: 91CBC610F7D8E79B150D111AE9F49DEF6748B23CFF68E1A81A5C988A6562E0CD
 
-# SajdaPOS-Setup-1.3.1.exe
-SHA-256: 9A3FAA65DB5D98DB65F39E3F4AD4F5AF24E3B614A35016D71CCB10FC9347CD78
+# SajdaPOS-Setup-1.4.0.exe
+SHA-256: 0A7FC7EDDC184B4290EF83DCCD222165D277CBD062EE8D2981A6847E02195C75
 
-# SajdaPOS-Windows-Portable-1.3.1.zip
-SHA-256: 269EFCCA1289563509F766C7F91FE01C9628B976541F6384CC563541F53842F6
+# SajdaPOS-Windows-Portable-1.4.0.zip
+SHA-256: A890593259864C87935D993F4AA0CA52B9CA3534A00BCE85D300E1682695BBA3
 ```
 
 ---
