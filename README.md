@@ -4,9 +4,9 @@
 ### Official Application Releases & Distribution Hub
 
 [![Official Website](https://img.shields.io/badge/الموقع_الرسمي-sajdapos.com-00C49F?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sajdapos.com)
-[![Current Version](https://img.shields.io/badge/الإصدار_الحالي-v1.4.3-0ea5e9?style=for-the-badge&logo=tag&logoColor=white)](https://github.com/khalidsakrjoker/Sajda_Apps/releases/tag/v1.4.3)
-[![Platform Windows](https://img.shields.io/badge/ويندوز-Windows_10_/_11_(64--bit)-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/khalidsakrjoker/Sajda_Apps/releases/tag/v1.4.3)
-[![Platform Android](https://img.shields.io/badge/أندرويد-Android_8.0+-34A853?style=for-the-badge&logo=android&logoColor=white)](https://github.com/khalidsakrjoker/Sajda_Apps/releases/tag/v1.4.3)
+[![Current Version](https://img.shields.io/badge/الإصدار_الحالي-v1.5.3-0ea5e9?style=for-the-badge&logo=tag&logoColor=white)](https://github.com/khalidsakrjoker/Sajda_Apps/releases/tag/v1.5.3)
+[![Platform Windows](https://img.shields.io/badge/ويندوز-Windows_10_/_11_(64--bit)-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/khalidsakrjoker/Sajda_Apps/releases/tag/v1.5.3)
+[![Platform Android](https://img.shields.io/badge/أندرويد-Android_8.0+-34A853?style=for-the-badge&logo=android&logoColor=white)](https://github.com/khalidsakrjoker/Sajda_Apps/releases/tag/v1.5.3)
 [![License](https://img.shields.io/badge/الترخيص-تجاري_/_Commercial-amber?style=for-the-badge)](https://sajdapos.com/#pricing)
 
 <p align="center">
@@ -18,13 +18,13 @@
 
 </div>
 
-## 📥 روابط التحميل المباشرة — الإصدار المستقر (v1.4.3)
+## 📥 روابط التحميل المباشرة — الإصدار المستقر (v1.5.3)
 
 | الحزمة | الصيغة | الحجم | طريقة التشغيل | رابط التنزيل المباشر |
 | :--- | :---: | :---: | :--- | :---: |
-| **تطبيق الأندرويد (APK)** | `.apk` | ~83.3 MB | تثبيت مباشر على كافة هواتف وأجهزة كاشير أندرويد | [**تحميل تطبيق الأندرويد (APK)**](https://github.com/khalidsakrjoker/Sajda_Apps/releases/download/v1.4.3/SajdaPOS-Android-1.4.3.apk) |
-| **المثبت القياسي للويندوز (Setup)** | `.exe` | ~35.0 MB | تثبيت رسمي مع أيقونة سطح المكتب وقائمة ابدأ | [**تحميل المثبت (Setup)**](https://github.com/khalidsakrjoker/Sajda_Apps/releases/download/v1.4.3/SajdaPOS-Setup-1.4.3.exe) |
-| **النسخة المحمولة للويندوز (Portable)** | `.zip` | ~48.3 MB | فك الضغط وتشغيل فوراً من الفلاشة بدون تثبيت | [**تحميل المحمول (Portable)**](https://github.com/khalidsakrjoker/Sajda_Apps/releases/download/v1.4.3/SajdaPOS-Windows-Portable-1.4.3.zip) |
+| **تطبيق الأندرويد (APK)** | `.apk` | ~85.0 MB | تثبيت مباشر على كافة هواتف وأجهزة كاشير أندرويد | [**تحميل تطبيق الأندرويد (APK)**](https://github.com/khalidsakrjoker/Sajda_Apps/releases/download/v1.5.3/SajdaPOS-Android-1.5.3.apk) |
+| **المثبت القياسي للويندوز (Setup)** | `.exe` | ~35.6 MB | تثبيت رسمي مع أيقونة سطح المكتب وقائمة ابدأ | [**تحميل المثبت (Setup)**](https://github.com/khalidsakrjoker/Sajda_Apps/releases/download/v1.5.3/SajdaPOS-Setup-1.5.3.exe) |
+| **النسخة المحمولة للويندوز (Portable)** | `.zip` | ~49.2 MB | فك الضغط وتشغيل فوراً من الفلاشة بدون تثبيت | [**تحميل المحمول (Portable)**](https://github.com/khalidsakrjoker/Sajda_Apps/releases/download/v1.5.3/SajdaPOS-Windows-Portable-1.5.3.zip) |
 
 > 💡 **ملاحظة:** النسخة المحمولة (Portable) مجهزة بكافة مكتبات Microsoft Visual C++ Runtime داخلياً، وتعمل على أي جهاز ويندوز خام أو بيئات Windows Sandbox دون الحاجة لتثبيت أي برامج أو طلب صلاحيات مسؤول (Admin).
 
@@ -35,14 +35,14 @@
 للتحقق من سلامة وأصالة الملفات المحملة وعدم تعرضها لأي تعديل:
 
 ```text
-# SajdaPOS-Android-1.4.3.apk
-SHA-256: FF25F0AACBCC484CF888C8CB50BB627825901AB9508F459991BFAD6947D74B7E
+# SajdaPOS-Android-1.5.3.apk
+SHA-256: B63FEFB65B9BBAAE6EEAEE5D5909084FC6925C2FA7ED7877D98E1DA4DF67B96F
 
-# SajdaPOS-Setup-1.4.3.exe
-SHA-256: 0FA28B5514D2501A94B6A92685E0B745633A3BEE453FED927E60B9BEDD2D58D6
+# SajdaPOS-Setup-1.5.3.exe
+SHA-256: 11CBD206832493109A6835465083EDDA91D2EFC615BA1D7F559B8C7FA89B9F7E
 
-# SajdaPOS-Windows-Portable-1.4.3.zip
-SHA-256: 61ADC923040136983914F03B1C483FD96FAD05AA49BE6407EBD03D0A6D3EDAAC
+# SajdaPOS-Windows-Portable-1.5.3.zip
+SHA-256: 51268CF1F37C64476FFBA7C4A6C8387D9DCE67B17DC3DC312A44B5A5E79D1AB6
 ```
 
 ---
@@ -53,16 +53,40 @@ SHA-256: 61ADC923040136983914F03B1C483FD96FAD05AA49BE6407EBD03D0A6D3EDAAC
 * **نظام التشغيل:** Windows 10 أو Windows 11 بمعمارية **64-bit**.
 * **المعالج:** أي معالج Intel أو AMD يدعم 64-bit (بما في ذلك Core 2 Duo و Celeron القديمة).
 * **الذاكرة العشوائية (RAM):** 2 جيجابايت كحد أدنى (يُفضل 4 جيجابايت).
-* **المساحة التخزينية:** 150 ميجابايت مساحة فارغة.
 
 ### الهواتف الذكية وأجهزة كاشير أندرويد:
 * **نظام التشغيل:** Android 8.0 (Oreo) فما فوق.
 * **الذاكرة العشوائية (RAM):** 2 جيجابايت كحد أدنى.
-* **المساحة التخزينية:** 120 ميجابايت مساحة فارغة.
+
+### الميزات المشتركة:
+* **الاتصال:** يلزم وجود اتصال إنترنت عند تسجيل الدخول وفتح الوردية؛ وعند انقطاع الإنترنت **يكمل البرنامج عمليات البيع والطباعة أوفلاين** مع المزامنة التلقائية فور عودة الاتصال.
+* **الأجهزة الملحقة المدعومة:**
+  * طابعات الإيصالات الحرارية 80mm (شبكة Network / USB).
+  * قارئات الباركود بكافة أنواعها (كيبورد USB / لاسلكي / كاميرا الموبايل).
+  * شاشات اللمس وأدراج الكاشير النقدية.
 
 ---
 
-## 🌐 التواصل والدعم الفني
-* **الموقع الرسمي:** [https://sajdapos.com](https://sajdapos.com)
-* **واتساب الدعم الفني والمبيعات:** [+201007546343](https://wa.me/201007546343)
-* **البريد الإلكتروني:** [support@sajdapos.com](mailto:support@sajdapos.com)
+## 🚀 خارطة طريق المنصات (Platform Roadmap)
+
+| المنصة | الصيغة المستهدفة | الحالة | موعد التوفر |
+| :--- | :---: | :---: | :--- |
+| **أندرويد (Android)** | APK مباشر | 🟢 متاح للتحميل المباشر | متوفر حالياً |
+| **أندرويد (Google Play)** | متجر Google Play الرسمي | 🟡 قيد النشر والمراجعة | قريباً |
+| **آبل (iOS)** | Apple TestFlight + App Store | 🟡 قيد الجدولة | قريباً |
+| **ماك (macOS)** | `.dmg` (Apple Silicon & Intel) | 🔵 أتمتة سحابية | مجدول |
+| **لينكس (Linux)** | `.AppImage` / `.deb` (Ubuntu) | 🔵 أتمتة سحابية | مجدول |
+
+---
+
+## 📞 الدعم الفني والتفعيل الرسمي
+
+* 🌐 **الموقع الرسمي:** [https://sajdapos.com](https://sajdapos.com)
+* 💬 **واتساب الدعم والتفعيل الفوري:** [+20 100 754 6343](https://wa.me/201007546343)
+* ✉️ **البريد الإلكتروني:** [support@sajdapos.com](mailto:support@sajdapos.com)
+
+---
+
+<div align="center">
+  <sub>حقوق النشر والتوزيع محفوظة © 2026 سجدة POS (Sajda POS) — جميع الحقوق محفوظة.</sub>
+</div>
